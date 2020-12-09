@@ -8,6 +8,7 @@ export default class Post extends Component {
                value="enter text">
 
                </input>
+                   <p>Please enter Text</p>
                 
             </div>
         )

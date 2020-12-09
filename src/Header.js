@@ -6,7 +6,7 @@ export default class header extends Component {
         return (
             <div>
                 <h1>Welcome to our App!</h1>
-                <p>Hello!</p>
+                
                 <Post/>
             </div>
         )
