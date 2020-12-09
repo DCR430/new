@@ -8,7 +8,8 @@ export default class Post extends Component {
                value="enter text">
 
                </input>
-                   <p>Please enter Text</p>
+                   <p>Please enter Thoughts</p>
+                   <button>Submit</button>
                 
             </div>
         )
